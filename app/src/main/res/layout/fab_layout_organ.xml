@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:fab="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_behavior="net.givelives.givelives.utility.ScrollingFABBehavior">
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/fab_organ"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:paddingLeft="@dimen/margin_fab"
+        android:paddingRight="@dimen/margin_fab"
+        android:paddingBottom="@dimen/margin_fab"
+        android:textColor="@android:color/white"
+        fab:fab_colorNormal="@color/colorPrimary"
+        fab:menu_backgroundColor="#997D7D7D"
+        fab:menu_colorNormal="@color/orange"
+        fab:menu_colorPressed="@color/material_green_500"
+        fab:menu_colorRipple="#62B2FF"
+        fab:menu_icon="@drawable/ic_action_filter"
+        fab:menu_labels_colorNormal="@color/material_green_500"
+        fab:menu_labels_ellipsize="end"
+        fab:menu_labels_singleLine="true"
+        fab:menu_labels_textColor="@color/white"
+        tools:ignore="RtlHardcoded">
+        <!--fab:menu_labels_colorNormal="@color/transparent"-->
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabMyOrganRequest"
+            style="@style/FabMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_filter"
+            fab:fab_label="My Organ/Tissue Requests"
+            fab:fab_size="mini" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabRecentOrganRequest"
+            style="@style/FabMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_filter"
+            fab:fab_label="Recent Organ/Tissue Requests"
+            fab:fab_size="mini" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabOrganMyCity"
+            style="@style/FabMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_filter"
+            android:visibility="gone"
+            fab:fab_label="Within My City"
+            fab:fab_size="mini" />
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabOrganMap"
+            style="@style/FabMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_filter"
+            fab:fab_label="View On Map"
+            fab:fab_size="mini" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fabMoreFilter"
+            style="@style/FabMenu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_filter"
+            android:visibility="gone"
+            fab:fab_label="More Filters"
+            fab:fab_size="mini" />
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+
+</RelativeLayout>

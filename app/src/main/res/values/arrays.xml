@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string-array name="donor_feat">
+        <item>View Blood Requests</item>
+        <item>Donate Your Blood</item>
+        <item>View Organ/Tissue Requests</item>
+        <item>Donate Organ/Tissue After Death</item>
+        <item>Learn More About Blood Donation</item>
+        <item>Learn More About Organ Donation</item>
+    </string-array>
+
+    <string-array name="receiver_feat">
+        <item>Add A Blood Request</item>
+        <item>View Your Blood Requests</item>
+        <item>Add An Organ/Tissue Request</item>
+        <item>View Your Organ/Tissue Request</item>
+        <item>Share Your Stories</item>
+    </string-array>
+
+    <string-array name="happier_feat">
+        <item>Learn How To Meditate</item>
+        <item>Learn Falun Dafa</item>
+        <item>AudioBooks - Be Present!</item>
+    </string-array>
+
+    <string-array name="blood_group_array">
+        <item>O-</item>
+        <item>O+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>AB-</item>
+        <item>AB+</item>
+    </string-array>
+
+    <string-array name="organ_tissue_array">
+        <item>One kidney</item>
+        <item>Part of the liver</item>
+        <item>Part of the lung</item>
+        <item>Part of the intestine</item>
+        <item>Part of the pancreas</item>
+        <item>Skin</item>
+    </string-array>
+
+    <string-array name="well_being_desc">
+        <item>Meditation helps relief from stress and anxiety, decreased blood pressure,
+            lower cholesterol levels, and more
+        </item>
+        <item>Through exercises &amp; spiritual movement, you\'d reach very high realms, enlightening
+            to the true meanings of life, and finding the path of return to your origins</item>
+        <item>Listen to best selling audio books from spiritual leader Eckhart Tolle</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+
+    <array name="well_being_background">
+        <item>@drawable/card_bg01</item>
+        <item>@drawable/card_bg03</item>
+        <item>@drawable/card_bg04</item>
+    </array>
+    <array name="blood_post_background">
+        <item>@drawable/card_bg01</item>
+        <item>@drawable/card_bg02</item>
+        <item>@drawable/card_bg03</item>
+        <item>@drawable/card_bg04</item>
+        <item>@drawable/card_bg05</item>
+        <item>@drawable/card_bg07</item>
+        <item>@drawable/card_bg09</item>
+        <item>@drawable/card_bg11</item>
+        <item>@drawable/card_bg12</item>
+        <item>@drawable/card_bg13</item>
+    </array>
+    <array name="organ_post_background">
+        <item>@drawable/card_bg05</item>
+        <item>@drawable/card_bg06</item>
+        <item>@drawable/card_bg07</item>
+        <item>@drawable/card_bg01</item>
+        <item>@drawable/card_bg02</item>
+        <item>@drawable/card_bg03</item>
+        <item>@drawable/card_bg04</item>
+        <item>@drawable/card_bg09</item>
+        <item>@drawable/card_bg11</item>
+        <item>@drawable/card_bg12</item>
+        <item>@drawable/card_bg13</item>
+    </array>
+</resources>
