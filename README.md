@@ -12,8 +12,6 @@ Give Lives is a mini social app that connects very sick patients with potential 
 
 The tools and technologies used in this native android app comprise: Android Studio, Gradle, Java, Firebase (Authentication, Cloud Messaging, Realtime Database, Cloud Function, Storage, Crash Reporting...), Google Maps API, Google Places API, YouTube API, JSON, Material Design libraries…
 
-[Link to newest APK for download.](https://tafesaedu-my.sharepoint.com/personal/santi_ruiz_tafesa_edu_au/_layouts/15/guestaccess.aspx?docid=01c36bf8239804a33994693bd1555d735&authkey=ATh7qRv26M6GGx-vioV54Mo) (Beta version)
-
 App demo images:
 
 ![alt tag](https://s18.postimg.org/kh6uasuk9/Screenshot_2017-12-31-22-19-49.png "")
